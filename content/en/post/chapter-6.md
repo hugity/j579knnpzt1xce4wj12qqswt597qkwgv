@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T15:25:05.000Z
 description: Esmeralda
-featured_image: images/Lasagna-1757859297802-rlzpvv.jpg
+featured_image: ""
 tags: []
 title: "Chapter VI: Esmeralda"
 disable_share: false
